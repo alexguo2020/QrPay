@@ -205,4 +205,4 @@ XposedHelpers.findAndHookMethod(
 
 ## 总结
 云闪付收款已经非常完善了，平均2-3个月一次风控调整，依然比较稳定。
-但是也有许多细节需要改进，欢迎大家一起学习讨论 QQ：888888 wx:
+但是也有许多细节需要改进，欢迎大家一起学习讨论  wx:luck_guoxiaonian
